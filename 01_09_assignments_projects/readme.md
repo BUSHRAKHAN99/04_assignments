@@ -79,7 +79,7 @@ To run any project, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd 00-07_assignments
+   cd 00-09_assignments_projects
    ```
 3. Run the desired Python file:
    ```bash
