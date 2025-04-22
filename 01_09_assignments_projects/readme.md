@@ -74,11 +74,12 @@ This repository contains multiple Python projects, ranging from basic scripting 
 To run any project, follow these steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/subhankaladi/GIAIC_PythonProjects_Assignment-4.git
+   git clone https://github.com/BUSHRAKHAN99/04_assignments.git
+   
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Assignments_00-07
+   cd 00-07_assignments
    ```
 3. Run the desired Python file:
    ```bash
@@ -91,12 +92,3 @@ To run any project, follow these steps:
 
 ---
 
-## 🤝 Contributing
-Feel free to improve or extend these projects. Contributions are welcome!
-
----
-
-## 📧 Contact
-For any questions, reach out at **subhankaladi@gmail.com**.
-
-Happy Coding! 🚀
