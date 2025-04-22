@@ -76,11 +76,12 @@ These projects introduce control flow, lists, and dictionaries.
 To run any project, follow these steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/subhankaladi/GIAIC_PythonProjects_Assignment-4.git
+   git clone https://github.com/BUSHRAKHAN99/04_assignments.git
+
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Assignment-01
+   cd 01_assignment
    ```
 3. Run the desired Python file:
    ```bash
@@ -91,14 +92,3 @@ To run any project, follow these steps:
    python3 intermediate_projects/control_flow.py
    ```
 
----
-
-## 🤝 Contributing
-Feel free to improve or extend these projects. Contributions are welcome!
-
----
-
-## 📧 Contact
-For any questions, reach out at **subhankaladi@gmail.com**.
-
-Happy Coding! 🚀
